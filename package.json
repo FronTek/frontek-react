@@ -7,8 +7,11 @@
     "start": "webpack-dev-server --open",
     "build": "webpack"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "React",
+    "FronTek"
+  ],
+  "author": "@Saif_Maruf",
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.2",
