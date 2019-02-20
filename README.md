@@ -1,6 +1,6 @@
 # FronTek React
 
-**frontek-react** is a minimal framework for react development with babel and webpack to head start to developming react
+**frontek-react** is a minimal framework for react development with babel and webpack to head start developing react
 
 ## Quick Start
 
